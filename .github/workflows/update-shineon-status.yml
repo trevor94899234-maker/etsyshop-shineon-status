@@ -1,0 +1,74 @@
+name: Update and deploy ShineOn status monitor
+
+on:
+  schedule:
+    # Every six hours at minute 17 (UTC): 00:17, 06:17, 12:17, 18:17.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: shineon-status-pages
+  cancel-in-progress: false
+
+jobs:
+  update-shineon-status:
+    name: Fetch data and prepare Pages artifact
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Fetch ShineOn status data
+        run: node scripts/fetch-shineon-status.mjs
+
+      - name: Commit updated status data when changed
+        shell: bash
+        run: |
+          if [[ -z "$(git status --porcelain -- data/shineon-status.json)" ]]; then
+            echo "ShineOn status data has not changed; skipping commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/shineon-status.json
+          git commit -m "chore: update ShineOn status data"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Prepare Pages artifact
+        shell: bash
+        run: |
+          rm -rf _site
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp data/shineon-status.json _site/data/shineon-status.json
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: update-shineon-status
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
