@@ -47,4 +47,4 @@ The fulfillment visualization shows planning windows from the supplied sources; 
 
 The first successful run creates a `baseline`. Later successful runs compare field values by `productKey`. A change record keeps the product, field label, previous value, current value and direction. Missing source cells remain `null` or the source's explicit `Not Available` value; they are not converted into zero.
 
-The parent repository workflow refreshes this snapshot every six hours and deploys this page at `/product-change-monitor/` on GitHub Pages. The workflow and Pages behaviour still require a real GitHub run before they can be called verified.
+The parent repository workflow refreshes this snapshot every six hours and deploys this page at the Pages root. The previous ShineOn status page is kept at `/shineon-status/`. The workflow and Pages behaviour still require a real GitHub run before they can be called verified.

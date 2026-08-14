@@ -34,17 +34,20 @@ jobs:
       - name: Fetch EtsyShop product data
         run: node etsyshop-product-change-monitor/scripts/fetch-etsyshop-product-data.mjs
 
+      - name: Mirror product snapshot for the Pages root
+        run: cp etsyshop-product-change-monitor/data/product-status.json data/product-status.json
+
       - name: Commit updated snapshots when changed
         shell: bash
         run: |
-          if [[ -z "$(git status --porcelain -- data/shineon-status.json etsyshop-product-change-monitor/data/product-status.json)" ]]; then
+          if [[ -z "$(git status --porcelain -- data/shineon-status.json data/product-status.json etsyshop-product-change-monitor/data/product-status.json)" ]]; then
             echo "Saved snapshots have not changed; skipping commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/shineon-status.json etsyshop-product-change-monitor/data/product-status.json
+          git add data/shineon-status.json data/product-status.json etsyshop-product-change-monitor/data/product-status.json
           git commit -m "chore: update operations snapshots"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 
@@ -56,11 +59,11 @@ jobs:
         run: |
           rm -rf _site
           mkdir -p _site/data
-          mkdir -p _site/product-change-monitor/data
+          mkdir -p _site/shineon-status/data
           cp index.html _site/index.html
-          cp data/shineon-status.json _site/data/shineon-status.json
-          cp etsyshop-product-change-monitor/index.html _site/product-change-monitor/index.html
-          cp etsyshop-product-change-monitor/data/product-status.json _site/product-change-monitor/data/product-status.json
+          cp data/product-status.json _site/data/product-status.json
+          cp shineon-status/index.html _site/shineon-status/index.html
+          cp data/shineon-status.json _site/shineon-status/data/shineon-status.json
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5

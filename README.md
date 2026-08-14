@@ -4,8 +4,8 @@ This repository contains the Track 3 crawler page for the EtsyShop personal-OS w
 
 ## Published pages
 
-- ShineOn system status: `https://trevor94899234-maker.github.io/etsyshop-shineon-status/`
-- Product change monitor: `https://trevor94899234-maker.github.io/etsyshop-shineon-status/product-change-monitor/`
+- Product change monitor (main page): `https://trevor94899234-maker.github.io/etsyshop-shineon-status/`
+- Legacy ShineOn system status: `https://trevor94899234-maker.github.io/etsyshop-shineon-status/shineon-status/`
 
 ## Sources and source checks
 
@@ -50,6 +50,6 @@ Open `http://127.0.0.1:8787/` for the status page or `http://127.0.0.1:8787/prod
 
 ## GitHub Actions and Pages
 
-`.github/workflows/update-shineon-status.yml` runs the two fetchers every six hours and also exposes `workflow_dispatch` for a manual run. It commits changed snapshots and deploys both pages to GitHub Pages. A scheduled run is not treated as verified until GitHub shows a successful run; use the manual button for a repeatable acceptance check.
+`.github/workflows/update-shineon-status.yml` runs the two fetchers every six hours and also exposes `workflow_dispatch` for a manual run. It commits changed snapshots and deploys the Product Change Monitor at the Pages root. The previous ShineOn status page remains available only at `/shineon-status/` as a legacy reference. A scheduled run is not treated as verified until GitHub shows a successful run; use the manual button for a repeatable acceptance check.
 
 The Personal OS home/navigation must contain an entry to the published status page. The repository page also links to the product extension so both views remain discoverable.
