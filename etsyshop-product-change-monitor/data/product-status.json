@@ -1,0 +1,812 @@
+{
+  "fetchedAt": "2026-08-14T18:11:43.834Z",
+  "comparisonStatus": "compared",
+  "previousFetchedAt": "2026-08-14T17:19:37.085Z",
+  "status": {
+    "fetchedAt": "2026-08-14T18:11:43.802Z",
+    "sources": {
+      "summary": "https://status.shineon.com/v3/summary.json",
+      "components": "https://status.shineon.com/v3/components.json"
+    },
+    "pageStatus": "UP",
+    "components": [
+      {
+        "name": "Shopify App",
+        "status": "OPERATIONAL",
+        "group": {
+          "id": "ckua1gdoa367175s9n3r2mk4sil",
+          "name": "ShineOn Systems",
+          "description": ""
+        }
+      },
+      {
+        "name": "Partner/CSV",
+        "status": "OPERATIONAL",
+        "group": {
+          "id": "ckua1gdoa367175s9n3r2mk4sil",
+          "name": "ShineOn Systems",
+          "description": ""
+        }
+      },
+      {
+        "name": "Production & Fulfillment",
+        "status": "OPERATIONAL",
+        "group": {
+          "id": "ckua1hhda368356s9n3x53rlqfm",
+          "name": "Order Processing",
+          "description": ""
+        }
+      },
+      {
+        "name": "Shipping Carriers",
+        "status": "OPERATIONAL",
+        "group": {
+          "id": "ckua1hhda368356s9n3x53rlqfm",
+          "name": "Order Processing",
+          "description": ""
+        }
+      },
+      {
+        "name": "ShineOn Systems",
+        "status": "OPERATIONAL",
+        "group": null
+      },
+      {
+        "name": "Order Processing",
+        "status": "OPERATIONAL",
+        "group": null
+      },
+      {
+        "name": "Support",
+        "status": "OPERATIONAL",
+        "group": {
+          "id": "ckua1gdoa367175s9n3r2mk4sil",
+          "name": "ShineOn Systems",
+          "description": ""
+        }
+      }
+    ]
+  },
+  "statusComparisonStatus": "compared",
+  "statusPreviousFetchedAt": "2026-08-14T17:19:37.074Z",
+  "sources": {
+    "statusSummary": "https://status.shineon.com/v3/summary.json",
+    "statusComponents": "https://status.shineon.com/v3/components.json",
+    "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+    "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable",
+    "productionFetch": "https://teamshineon.zendesk.com/api/v2/help_center/en-us/articles/10262194743441.json",
+    "shippingFetch": "https://teamshineon.zendesk.com/api/v2/help_center/en-us/articles/10281047558545.json",
+    "pricesSheet": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+    "pricesCsv": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/export?format=csv&gid=170660766"
+  },
+  "sourceNotes": {
+    "status": "ShineOn status is read from the public summary and components APIs. Optional incident and maintenance fields remain absent when the API does not provide them.",
+    "pricing": "Subscription product costs and region shipping prices are read from the supplied Google Sheet.",
+    "production": "Journal and acrylic production ranges are category-level ranges from the supplied ShineOn article.",
+    "shipping": "EU labels in the prices sheet are matched to the article’s International Standard/Priority times."
+  },
+  "products": [
+    {
+      "productKey": "graphic-acrylic-heart-plaque-no-base",
+      "productName": "Graphic Acrylic Heart Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$10.50",
+        "Side-Hustle": "$12.50",
+        "Starter": "$13.50",
+        "Free": "$14.50"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 329
+    },
+    {
+      "productKey": "graphic-acrylic-puzzle-plaque-no-base",
+      "productName": "Graphic Acrylic Puzzle Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$9.50",
+        "Side-Hustle": "$11.50",
+        "Starter": "$12.50",
+        "Free": "$13.50"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 330
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Square Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 331
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Square Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 332
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Dome Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 333
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Dome Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 334
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Circle Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 335
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Circle Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 336
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Heart Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 337
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Heart Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 338
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Paw Print Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 339
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Paw Print Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 340
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Star Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 341
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Star Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$12.00",
+        "Side-Hustle": "$14.00",
+        "Starter": "$15.00",
+        "Free": "$16.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$21.50",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 342
+    },
+    {
+      "productKey": "graphic-journal",
+      "productName": "Graphic Journal",
+      "family": "Journal",
+      "pricing": {
+        "Empire Builder": "$13.50",
+        "Side-Hustle": "$15.50",
+        "Starter": "$16.50",
+        "Free": "$17.50"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.31",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$9.70",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$15.00",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.22",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$24.50",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "2-3 business days",
+        "basis": "Leather Products (Graphic Journal, Leather Wallet): 2-3 Business Days",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 585
+    }
+  ],
+  "changes": [],
+  "statusChanges": []
+}

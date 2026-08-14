@@ -31,18 +31,21 @@ jobs:
       - name: Fetch ShineOn status data
         run: node scripts/fetch-shineon-status.mjs
 
-      - name: Commit updated status data when changed
+      - name: Fetch EtsyShop product data
+        run: node etsyshop-product-change-monitor/scripts/fetch-etsyshop-product-data.mjs
+
+      - name: Commit updated snapshots when changed
         shell: bash
         run: |
-          if [[ -z "$(git status --porcelain -- data/shineon-status.json)" ]]; then
-            echo "ShineOn status data has not changed; skipping commit."
+          if [[ -z "$(git status --porcelain -- data/shineon-status.json etsyshop-product-change-monitor/data/product-status.json)" ]]; then
+            echo "Saved snapshots have not changed; skipping commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/shineon-status.json
-          git commit -m "chore: update ShineOn status data"
+          git add data/shineon-status.json etsyshop-product-change-monitor/data/product-status.json
+          git commit -m "chore: update operations snapshots"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 
       - name: Configure GitHub Pages
@@ -53,8 +56,11 @@ jobs:
         run: |
           rm -rf _site
           mkdir -p _site/data
+          mkdir -p _site/product-change-monitor/data
           cp index.html _site/index.html
           cp data/shineon-status.json _site/data/shineon-status.json
+          cp etsyshop-product-change-monitor/index.html _site/product-change-monitor/index.html
+          cp etsyshop-product-change-monitor/data/product-status.json _site/product-change-monitor/data/product-status.json
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
