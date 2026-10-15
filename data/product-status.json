@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-10-14T21:37:51.607Z",
+  "fetchedAt": "2026-10-15T04:31:54.301Z",
   "comparisonStatus": "compared",
-  "previousFetchedAt": "2026-10-14T17:06:40.123Z",
+  "previousFetchedAt": "2026-10-14T21:37:51.607Z",
   "status": {
-    "fetchedAt": "2026-10-14T21:37:51.593Z",
+    "fetchedAt": "2026-10-15T04:31:54.285Z",
     "sources": {
       "summary": "https://status.shineon.com/v3/summary.json",
       "components": "https://status.shineon.com/v3/components.json"
@@ -68,7 +68,7 @@
     ]
   },
   "statusComparisonStatus": "compared",
-  "statusPreviousFetchedAt": "2026-10-14T17:06:40.111Z",
+  "statusPreviousFetchedAt": "2026-10-14T21:37:51.593Z",
   "sources": {
     "statusSummary": "https://status.shineon.com/v3/summary.json",
     "statusComponents": "https://status.shineon.com/v3/components.json",
@@ -98,7 +98,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -106,19 +106,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -146,7 +146,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -154,19 +154,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -194,7 +194,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -202,19 +202,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -242,7 +242,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -250,19 +250,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -290,7 +290,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -298,19 +298,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -338,7 +338,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -346,19 +346,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -386,7 +386,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -394,19 +394,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -434,7 +434,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -442,19 +442,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -482,7 +482,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -490,19 +490,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -530,7 +530,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -538,19 +538,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -578,7 +578,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -586,19 +586,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -626,7 +626,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -634,19 +634,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -674,7 +674,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -682,19 +682,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -722,7 +722,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -730,19 +730,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$21.50",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -770,7 +770,7 @@
       },
       "shipping": {
         "USA Standard": {
-          "price": "$6.31",
+          "price": "$6.91",
           "time": "2-5 business days"
         },
         "USA Priority": {
@@ -778,19 +778,19 @@
           "time": "1-2 business days"
         },
         "CA Standard": {
-          "price": "$9.70",
+          "price": "$10.50",
           "time": "4-8 business days"
         },
         "CA Priority": {
-          "price": "$15.00",
+          "price": "$24.70",
           "time": "2-5 business days"
         },
         "EU Standard": {
-          "price": "$9.22",
+          "price": "$9.85",
           "time": "3-10 business days"
         },
         "EU Priority": {
-          "price": "$24.50",
+          "price": "$26.00",
           "time": "2-5 business days"
         }
       },
@@ -807,6 +807,757 @@
       "sourceRow": 617
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "productKey": "graphic-acrylic-heart-plaque-no-base",
+      "productName": "Graphic Acrylic Heart Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-no-base",
+      "productName": "Graphic Acrylic Heart Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-no-base",
+      "productName": "Graphic Acrylic Heart Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-no-base",
+      "productName": "Graphic Acrylic Heart Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-no-base",
+      "productName": "Graphic Acrylic Heart Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-puzzle-plaque-no-base",
+      "productName": "Graphic Acrylic Puzzle Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-puzzle-plaque-no-base",
+      "productName": "Graphic Acrylic Puzzle Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-puzzle-plaque-no-base",
+      "productName": "Graphic Acrylic Puzzle Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-puzzle-plaque-no-base",
+      "productName": "Graphic Acrylic Puzzle Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-puzzle-plaque-no-base",
+      "productName": "Graphic Acrylic Puzzle Plaque (No Base)",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Square Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Square Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Square Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Square Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Square Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Square Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Square Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Square Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Square Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-square-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Square Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Dome Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Dome Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Dome Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Dome Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Dome Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Dome Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Dome Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Dome Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Dome Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-dome-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Dome Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Circle Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Circle Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Circle Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Circle Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Circle Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Circle Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Circle Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Circle Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Circle Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-circle-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Circle Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Heart Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Heart Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Heart Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Heart Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Heart Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Heart Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Heart Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Heart Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Heart Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-heart-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Heart Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Paw Print Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Paw Print Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Paw Print Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Paw Print Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Paw Print Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Paw Print Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Paw Print Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Paw Print Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Paw Print Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-paw-print-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Paw Print Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Star Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Star Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Star Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Star Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-led-corded-base",
+      "productName": "Graphic Acrylic Star Plaque LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Star Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Star Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Star Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$21.50",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Star Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-acrylic-star-plaque-battery-powered-led-base",
+      "productName": "Graphic Acrylic Star Plaque Battery Powered LED Base",
+      "family": "Acrylic Plaque",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-journal",
+      "productName": "Graphic Journal",
+      "family": "Journal",
+      "field": "shipping.USA Standard.price",
+      "label": "USA Standard shipping price",
+      "previous": "$6.31",
+      "current": "$6.91",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-journal",
+      "productName": "Graphic Journal",
+      "family": "Journal",
+      "field": "shipping.CA Standard.price",
+      "label": "CA Standard shipping price",
+      "previous": "$9.70",
+      "current": "$10.50",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-journal",
+      "productName": "Graphic Journal",
+      "family": "Journal",
+      "field": "shipping.CA Priority.price",
+      "label": "CA Priority shipping price",
+      "previous": "$15.00",
+      "current": "$24.70",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-journal",
+      "productName": "Graphic Journal",
+      "family": "Journal",
+      "field": "shipping.EU Standard.price",
+      "label": "EU Standard shipping price",
+      "previous": "$9.22",
+      "current": "$9.85",
+      "direction": "changed"
+    },
+    {
+      "productKey": "graphic-journal",
+      "productName": "Graphic Journal",
+      "family": "Journal",
+      "field": "shipping.EU Priority.price",
+      "label": "EU Priority shipping price",
+      "previous": "$24.50",
+      "current": "$26.00",
+      "direction": "changed"
+    }
+  ],
   "statusChanges": []
 }
