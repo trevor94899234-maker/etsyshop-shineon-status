@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-10-26T12:53:21.102Z",
+  "fetchedAt": "2026-10-26T22:36:54.535Z",
   "comparisonStatus": "compared",
-  "previousFetchedAt": "2026-10-26T04:40:30.612Z",
+  "previousFetchedAt": "2026-10-26T12:53:21.102Z",
   "status": {
-    "fetchedAt": "2026-10-26T12:53:21.091Z",
+    "fetchedAt": "2026-10-26T22:36:54.523Z",
     "sources": {
       "summary": "https://status.shineon.com/v3/summary.json",
       "components": "https://status.shineon.com/v3/components.json"
@@ -68,7 +68,7 @@
     ]
   },
   "statusComparisonStatus": "compared",
-  "statusPreviousFetchedAt": "2026-10-26T04:40:30.603Z",
+  "statusPreviousFetchedAt": "2026-10-26T12:53:21.091Z",
   "sources": {
     "statusSummary": "https://status.shineon.com/v3/summary.json",
     "statusComponents": "https://status.shineon.com/v3/components.json",
@@ -132,7 +132,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 329
+      "sourceRow": 333
     },
     {
       "productKey": "graphic-acrylic-puzzle-plaque-no-base",
@@ -180,7 +180,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 330
+      "sourceRow": 334
     },
     {
       "productKey": "graphic-acrylic-square-plaque-led-corded-base",
@@ -228,7 +228,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 331
+      "sourceRow": 335
     },
     {
       "productKey": "graphic-acrylic-square-plaque-battery-powered-led-base",
@@ -276,7 +276,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 332
+      "sourceRow": 336
     },
     {
       "productKey": "graphic-acrylic-dome-plaque-led-corded-base",
@@ -324,7 +324,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 333
+      "sourceRow": 337
     },
     {
       "productKey": "graphic-acrylic-dome-plaque-battery-powered-led-base",
@@ -372,7 +372,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 334
+      "sourceRow": 338
     },
     {
       "productKey": "graphic-acrylic-circle-plaque-led-corded-base",
@@ -420,7 +420,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 335
+      "sourceRow": 339
     },
     {
       "productKey": "graphic-acrylic-circle-plaque-battery-powered-led-base",
@@ -468,7 +468,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 336
+      "sourceRow": 340
     },
     {
       "productKey": "graphic-acrylic-heart-plaque-led-corded-base",
@@ -516,7 +516,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 337
+      "sourceRow": 341
     },
     {
       "productKey": "graphic-acrylic-heart-plaque-battery-powered-led-base",
@@ -564,7 +564,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 338
+      "sourceRow": 342
     },
     {
       "productKey": "graphic-acrylic-paw-print-plaque-led-corded-base",
@@ -612,7 +612,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 339
+      "sourceRow": 343
     },
     {
       "productKey": "graphic-acrylic-paw-print-plaque-battery-powered-led-base",
@@ -660,7 +660,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 340
+      "sourceRow": 344
     },
     {
       "productKey": "graphic-acrylic-star-plaque-led-corded-base",
@@ -708,7 +708,7 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 341
+      "sourceRow": 345
     },
     {
       "productKey": "graphic-acrylic-star-plaque-battery-powered-led-base",
@@ -756,7 +756,199 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 342
+      "sourceRow": 346
+    },
+    {
+      "productKey": "custom-cut-printed-acrylic-plaque-single-sided-led-corded-base",
+      "productName": "Custom Cut Printed Acrylic Plaque - Single Sided LED Corded Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$13.00",
+        "Side-Hustle": "$15.00",
+        "Starter": "$16.00",
+        "Free": "$17.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.91",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$10.50",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$24.70",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.85",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$26.00",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 356
+    },
+    {
+      "productKey": "custom-cut-printed-acrylic-plaque-single-sided-battery-powered-base",
+      "productName": "Custom Cut Printed Acrylic Plaque - Single Sided Battery Powered Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$13.00",
+        "Side-Hustle": "$15.00",
+        "Starter": "$16.00",
+        "Free": "$17.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.91",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$10.50",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$24.70",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.85",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$26.00",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 357
+    },
+    {
+      "productKey": "custom-cut-printed-acrylic-plaque-double-sided-led-corded-base",
+      "productName": "Custom Cut Printed Acrylic Plaque - Double Sided LED Corded Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$15.00",
+        "Side-Hustle": "$17.00",
+        "Starter": "$18.00",
+        "Free": "$19.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.91",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$10.50",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$24.70",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.85",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$26.00",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 358
+    },
+    {
+      "productKey": "custom-cut-printed-acrylic-plaque-double-sided-battery-powered-base",
+      "productName": "Custom Cut Printed Acrylic Plaque - Double Sided Battery Powered Base",
+      "family": "Acrylic Plaque",
+      "pricing": {
+        "Empire Builder": "$15.00",
+        "Side-Hustle": "$17.00",
+        "Starter": "$18.00",
+        "Free": "$19.00"
+      },
+      "shipping": {
+        "USA Standard": {
+          "price": "$6.91",
+          "time": "2-5 business days"
+        },
+        "USA Priority": {
+          "price": "$12.66",
+          "time": "1-2 business days"
+        },
+        "CA Standard": {
+          "price": "$10.50",
+          "time": "4-8 business days"
+        },
+        "CA Priority": {
+          "price": "$24.70",
+          "time": "2-5 business days"
+        },
+        "EU Standard": {
+          "price": "$9.85",
+          "time": "3-10 business days"
+        },
+        "EU Priority": {
+          "price": "$26.00",
+          "time": "2-5 business days"
+        }
+      },
+      "production": {
+        "range": "3-5 business days",
+        "basis": "Acrylic Products: 3-5 Business day",
+        "source": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info"
+      },
+      "sources": {
+        "prices": "https://docs.google.com/spreadsheets/d/1RapLC3WTjaDLePDZszpRh8SzBj0SNzhiTtySueTOpvE/edit?gid=170660766#gid=170660766",
+        "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
+        "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
+      },
+      "sourceRow": 359
     },
     {
       "productKey": "graphic-journal",
@@ -804,9 +996,50 @@
         "production": "https://teamshineon.zendesk.com/hc/en-us/articles/10262194743441-Production-and-Sync-Timescales-Info",
         "shipping": "https://teamshineon.zendesk.com/hc/en-us/articles/10281047558545-Shipping-Timescales-Prices-Info#Variable"
       },
-      "sourceRow": 617
+      "sourceRow": 630
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "productKey": "custom-cut-printed-acrylic-plaque-single-sided-led-corded-base",
+      "productName": "Custom Cut Printed Acrylic Plaque - Single Sided LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "__product__",
+      "label": "new product row",
+      "previous": null,
+      "current": "Custom Cut Printed Acrylic Plaque - Single Sided LED Corded Base",
+      "direction": "new"
+    },
+    {
+      "productKey": "custom-cut-printed-acrylic-plaque-single-sided-battery-powered-base",
+      "productName": "Custom Cut Printed Acrylic Plaque - Single Sided Battery Powered Base",
+      "family": "Acrylic Plaque",
+      "field": "__product__",
+      "label": "new product row",
+      "previous": null,
+      "current": "Custom Cut Printed Acrylic Plaque - Single Sided Battery Powered Base",
+      "direction": "new"
+    },
+    {
+      "productKey": "custom-cut-printed-acrylic-plaque-double-sided-led-corded-base",
+      "productName": "Custom Cut Printed Acrylic Plaque - Double Sided LED Corded Base",
+      "family": "Acrylic Plaque",
+      "field": "__product__",
+      "label": "new product row",
+      "previous": null,
+      "current": "Custom Cut Printed Acrylic Plaque - Double Sided LED Corded Base",
+      "direction": "new"
+    },
+    {
+      "productKey": "custom-cut-printed-acrylic-plaque-double-sided-battery-powered-base",
+      "productName": "Custom Cut Printed Acrylic Plaque - Double Sided Battery Powered Base",
+      "family": "Acrylic Plaque",
+      "field": "__product__",
+      "label": "new product row",
+      "previous": null,
+      "current": "Custom Cut Printed Acrylic Plaque - Double Sided Battery Powered Base",
+      "direction": "new"
+    }
+  ],
   "statusChanges": []
 }
