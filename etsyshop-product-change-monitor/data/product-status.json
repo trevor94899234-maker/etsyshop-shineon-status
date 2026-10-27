@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-10-26T22:36:54.535Z",
+  "fetchedAt": "2026-10-27T04:57:50.068Z",
   "comparisonStatus": "compared",
-  "previousFetchedAt": "2026-10-26T12:53:21.102Z",
+  "previousFetchedAt": "2026-10-26T22:36:54.535Z",
   "status": {
-    "fetchedAt": "2026-10-26T22:36:54.523Z",
+    "fetchedAt": "2026-10-27T04:57:50.052Z",
     "sources": {
       "summary": "https://status.shineon.com/v3/summary.json",
       "components": "https://status.shineon.com/v3/components.json"
@@ -68,7 +68,7 @@
     ]
   },
   "statusComparisonStatus": "compared",
-  "statusPreviousFetchedAt": "2026-10-26T12:53:21.091Z",
+  "statusPreviousFetchedAt": "2026-10-26T22:36:54.523Z",
   "sources": {
     "statusSummary": "https://status.shineon.com/v3/summary.json",
     "statusComponents": "https://status.shineon.com/v3/components.json",
@@ -999,47 +999,6 @@
       "sourceRow": 630
     }
   ],
-  "changes": [
-    {
-      "productKey": "custom-cut-printed-acrylic-plaque-single-sided-led-corded-base",
-      "productName": "Custom Cut Printed Acrylic Plaque - Single Sided LED Corded Base",
-      "family": "Acrylic Plaque",
-      "field": "__product__",
-      "label": "new product row",
-      "previous": null,
-      "current": "Custom Cut Printed Acrylic Plaque - Single Sided LED Corded Base",
-      "direction": "new"
-    },
-    {
-      "productKey": "custom-cut-printed-acrylic-plaque-single-sided-battery-powered-base",
-      "productName": "Custom Cut Printed Acrylic Plaque - Single Sided Battery Powered Base",
-      "family": "Acrylic Plaque",
-      "field": "__product__",
-      "label": "new product row",
-      "previous": null,
-      "current": "Custom Cut Printed Acrylic Plaque - Single Sided Battery Powered Base",
-      "direction": "new"
-    },
-    {
-      "productKey": "custom-cut-printed-acrylic-plaque-double-sided-led-corded-base",
-      "productName": "Custom Cut Printed Acrylic Plaque - Double Sided LED Corded Base",
-      "family": "Acrylic Plaque",
-      "field": "__product__",
-      "label": "new product row",
-      "previous": null,
-      "current": "Custom Cut Printed Acrylic Plaque - Double Sided LED Corded Base",
-      "direction": "new"
-    },
-    {
-      "productKey": "custom-cut-printed-acrylic-plaque-double-sided-battery-powered-base",
-      "productName": "Custom Cut Printed Acrylic Plaque - Double Sided Battery Powered Base",
-      "family": "Acrylic Plaque",
-      "field": "__product__",
-      "label": "new product row",
-      "previous": null,
-      "current": "Custom Cut Printed Acrylic Plaque - Double Sided Battery Powered Base",
-      "direction": "new"
-    }
-  ],
+  "changes": [],
   "statusChanges": []
 }
