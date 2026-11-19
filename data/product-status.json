@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-11-18T20:26:40.817Z",
+  "fetchedAt": "2026-11-19T07:17:26.289Z",
   "comparisonStatus": "compared",
-  "previousFetchedAt": "2026-11-18T07:19:56.271Z",
+  "previousFetchedAt": "2026-11-18T20:26:40.817Z",
   "status": {
-    "fetchedAt": "2026-11-18T20:26:40.802Z",
+    "fetchedAt": "2026-11-19T07:17:26.279Z",
     "sources": {
       "summary": "https://status.shineon.com/v3/summary.json",
       "components": "https://status.shineon.com/v3/components.json"
@@ -23,7 +23,7 @@
     ]
   },
   "statusComparisonStatus": "compared",
-  "statusPreviousFetchedAt": "2026-11-18T07:19:56.260Z",
+  "statusPreviousFetchedAt": "2026-11-18T20:26:40.802Z",
   "sources": {
     "statusSummary": "https://status.shineon.com/v3/summary.json",
     "statusComponents": "https://status.shineon.com/v3/components.json",
